@@ -27,3 +27,13 @@
 
 [04-4 Deep Neural Network 소스](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/04%20%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D/04_4_DeepNN.ipynb)
 
+----
+[05-1 Convolution 소스](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/05%20CNN/05_1_ConvolutionLayer.ipynb)
+
+[05-2 이미지 구조 소스](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/05%20CNN/05_2_%EC%9D%B4%EB%AF%B8%EC%A7%80%EA%B5%AC%EC%A1%B0.ipynb)
+
+[05-3 Conv2D 소스](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/05%20CNN/05_3_Conv2D.ipynb)
+
+[05-4 건물 외벽 학습 소스](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/05%20CNN/05_4_%EA%B1%B4%EB%AC%BC%EC%99%B8%EB%B2%BD%ED%95%99%EC%8A%B5.ipynb)
+
+[05-5 LENET 소스](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/05%20CNN/05_5_LENET.ipynb)
