@@ -49,4 +49,16 @@
 
 [06-6 Segmentation](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/06%20CNN2/06_6_Unet.ipynb)
 
+----
+[07-1 GAN](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/07%20Gen%20Image/07_1_GAN.ipynb)
+
+[07-2 GAN2](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/07%20Gen%20Image/07_2_GAN2.ipynb)
+
+[07-3 GAN Pix2Pix](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/07%20Gen%20Image/07_3_GAN_Pix2Pix.ipynb)
+
+[07-4 Autoencoder](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/07%20Gen%20Image/07_4_Autoencoder.ipynb)
+
+[07-5 diffusion](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/07%20Gen%20Image/07_5_diffusion.ipynb)
+
+
 
