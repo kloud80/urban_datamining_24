@@ -60,5 +60,10 @@
 
 [07-5 diffusion](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/07%20Gen%20Image/07_5_diffusion.ipynb)
 
+----
+[08-1 시계열 분석](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/08%20Time%20Series/08_1_timeseries.ipynb)
 
+[08-2 NN 시계열 분석 (RNN, LSTM)](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/08%20Time%20Series/08_2_NN_timeseries.ipynb)
+
+[08-3 CNN+LSTM 분석](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/08%20Time%20Series/08_3_CNN_LSTM.ipynb)
 
