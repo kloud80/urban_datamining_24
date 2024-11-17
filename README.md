@@ -67,3 +67,13 @@
 
 [08-3 CNN+LSTM 분석](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/08%20Time%20Series/08_3_CNN_LSTM.ipynb)
 
+
+----
+[09-1 언어모델](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/09%20Attention/09_1__%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8.ipynb)
+
+[09-2 Seq2Seq](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/09%20Attention/09_2_Seq2Seq.ipynb)
+
+[09-3 attention](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/09%20Attention/09_3_attention.ipynb)
+
+[09-4 GPT](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/09%20Attention/09_4_GPT.ipynb)
+
