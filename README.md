@@ -77,3 +77,15 @@
 
 [09-4 GPT](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/09%20Attention/09_4_GPT.ipynb)
 
+
+
+
+----
+[10-1 LLM모델](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/10%20LLM/10_1_LLM_Model.ipynb)
+
+[10-2 프롬프트](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/10%20LLM/10_2_Prompt.ipynb)
+
+[10-3 llama-index](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/10%20LLM/10_3_llama_index.ipynb)
+
+
+
