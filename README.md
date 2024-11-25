@@ -87,5 +87,7 @@
 
 [10-3 llama-index](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/10%20LLM/10_3_llama_index.ipynb)
 
+[10-4 langchain](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/10%20LLM/10_4_langchain.ipynb)
+
 
 
