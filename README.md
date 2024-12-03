@@ -91,3 +91,14 @@
 
 
 
+
+----
+[11-1 연관관계](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/11%20ETC/11_1_Association_TFIDF.ipynb)
+
+[11-2 협업필터링](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/11%20ETC/11_2_CollaborateFiltering.ipynb)
+
+[11-3 GCN](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/11%20ETC/11_3_GCN.ipynb)
+
+[11-4 강화학습](https://colab.research.google.com/github/kloud80/urban_datamining_24/blob/main/11%20ETC/11_4_ReinforcementLearning.ipynb)
+
+
